@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab6_Toast_AlertDialog</string>
+    <string name="toast_custom">自定義Toast</string>
+    <string name="toast_default">預設Toast</string>
+    <string name="btn_dialog">按鍵式AlertDialog</string>
+    <string name="list_alert_dialog">列表式AlertDialog</string>
+    <string name="single_alert_dialog">單選式AlertDialog</string>
+</resources>
